@@ -13,4 +13,6 @@ Please provide:
   - behavior actually experienced.
   - crash log if you happen to have one.
   
+If I can't reproduce it, i can't fix it.
+
 Issues without the above information will be deleted
