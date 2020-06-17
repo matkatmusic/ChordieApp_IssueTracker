@@ -13,6 +13,8 @@ Please provide:
   - behavior actually experienced.
   - crash log if you happen to have one.
   
+Videos, Screenshots and Midi files are the best way to share what the bug is!  they're 1000x more helpful than text.
+  
 If I can't reproduce it, i can't fix it.
 
 Issues without the above information will be deleted
